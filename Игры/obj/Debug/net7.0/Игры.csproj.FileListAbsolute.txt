@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Игры\Игры\bin\Debug\net7.0\Игры.exe
+C:\Users\user1\source\repos\Игры\Игры\bin\Debug\net7.0\Игры.deps.json
+C:\Users\user1\source\repos\Игры\Игры\bin\Debug\net7.0\Игры.runtimeconfig.json
+C:\Users\user1\source\repos\Игры\Игры\bin\Debug\net7.0\Игры.dll
+C:\Users\user1\source\repos\Игры\Игры\bin\Debug\net7.0\Игры.pdb
+C:\Users\user1\source\repos\Игры\Игры\obj\Debug\net7.0\Игры.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Игры\Игры\obj\Debug\net7.0\Игры.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Игры\Игры\obj\Debug\net7.0\Игры.AssemblyInfo.cs
+C:\Users\user1\source\repos\Игры\Игры\obj\Debug\net7.0\Игры.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Игры\Игры\obj\Debug\net7.0\Игры.dll
+C:\Users\user1\source\repos\Игры\Игры\obj\Debug\net7.0\refint\Игры.dll
+C:\Users\user1\source\repos\Игры\Игры\obj\Debug\net7.0\Игры.pdb
+C:\Users\user1\source\repos\Игры\Игры\obj\Debug\net7.0\Игры.genruntimeconfig.cache
+C:\Users\user1\source\repos\Игры\Игры\obj\Debug\net7.0\ref\Игры.dll
